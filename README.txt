@@ -1,11 +1,12 @@
 NEARBII
 =======
 
-Team Name: Virgo
+Team Name: Virco
 
 Team Member Names:
 Evan Freayh - Student Number: 300168954
 Karim Gheriani - Student Number: 300195242
+Arthur Libert - Student Number: 300206687
 
 
 
