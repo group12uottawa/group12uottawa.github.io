@@ -9,7 +9,7 @@ Karim Gheriani - Student Number: 300195242
 Omar oussi -Student number:300206587
 Arthur Libert - Student Number: 300206687
 Omar Asad - Student Number : 669598104
-
+Akram Raftani - Student Number : 300206936
 
 
 Product Name: Nearbii
