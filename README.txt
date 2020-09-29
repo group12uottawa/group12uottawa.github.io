@@ -5,7 +5,7 @@ Team Name: Virgo
 
 Team Member Names:
 Evan Freayh - Student Number: 300168954
-
+Omar oussi - student number :300206587
 
 Product Name: Nearbii
 
