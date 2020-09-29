@@ -10,7 +10,7 @@ Omar oussi - Student number:300206587
 Arthur Libert - Student Number: 300206687
 Omar Asad - Student Number : 669598104
 Joshua Labelle - Student Number : 300185891
-
+Akramr Raftani - Student Number : 300206936
 
 Product Name: Nearbii
 
