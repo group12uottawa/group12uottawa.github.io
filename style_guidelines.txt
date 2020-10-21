@@ -1,28 +1,28 @@
 Overall Look and Feel of Nearbii
 ===============================
-The overall look and feel for Nearbii should be simple and minimalist with . 
+The overall look and feel for Nearbii should be simple, minimalist and flat with a plain blue colour scheme. The website should feel warm but also modern. The icons, buttons and links will be flat and won't have much fancy styling. 
 
 Colours
 ========
-The colours of our site are going to consist of mostly blue. We are planning on avoiding white as much as possible 
+The colours of our site are going to consist of mostly blue. We are planning on avoiding white as much as possible. They should feel warm but contemporary. 
 
 - #88ABE5
 - #5C87CA
 - #BACDEC
 - #6F97D8
-- #
 
 Iconography
 ===========
-
+The icons will have a flat design similar to the buttons. The colours of the icons should match the colours in the colour palette. 
 
 Typography
 ==========
-
+We will be using ___ from Google Fonts. 
 
 Links
 =====
-
+Links won't have any underline or other text decoration but will change colour when you hover over them. 
 
 Buttons
 =======
+The buttons will be flat with rounded corners and their colours will match the colours in our colour palette. 
