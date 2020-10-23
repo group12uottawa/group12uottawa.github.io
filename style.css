@@ -1,18 +1,23 @@
-/* Home page */
+
+.bg {
+
+    height: 100%;
+    width: 100%;
+      
+}
 .banner {
   
     color: #5c87ca;
     background-color: #88abe5;
-  
-}
 
+}
 .secondary {
 
     color: #bacdec;
     height: 80px;
     width: 200px;
     padding: 20px;
-    border: 5px solid #5c87ca;
+    border: 5px;
     background-color: #88abe5;
 
 }
