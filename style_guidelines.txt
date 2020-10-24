@@ -17,7 +17,7 @@ The icons will have a flat design similar to the buttons. The colours of the ico
 
 Typography
 ==========
-We will be using ___ from Google Fonts. 
+We will be using Trispace from Google Fonts. 
 
 Links
 =====
