@@ -12,7 +12,12 @@ body {
     background-color: #88abe5;
     text-align: left;
 }
+.profilepic {
 
+    width: 100px;
+    height: 100px;
+
+}
 .header a:link, .header a:visited {
     background-color: transparent;
     border-radius: 4px;
