@@ -13,10 +13,13 @@ body {
     text-align: left;
 }
 .profilepic {
-
     width: 100px;
     height: 100px;
-
+}
+.logo {
+    height: 41px;
+    width: 127;
+    
 }
 .header a:link, .header a:visited {
     background-color: transparent;
