@@ -15,11 +15,31 @@
                 <a href="https://group12uottawa.github.io/about-us.html">About Us</a>
             </h1>
         </div>
-        <a href="https://group12uottawa.github.io/features.html">
-        	<img title="Learn More..." src="images/preview.png" alt="Preview" class="preview">
-        </a>
-        <a href="https://group12uottawa.github.io/about-us.html">
-        	<img src="images/logo_virco.png" alt="LogoVirco" class="virco">
-        </a>
+        
+        <div class="tooltipcontainer">
+	        <a href="https://group12uottawa.github.io/features.html">
+	        	<img src="images/preview.png" alt="Preview" class="preview">
+	        </a>
+	        <span class="tooltip">Learn More!</span>
+    	</div>
+
+    	<div>
+    		<a href="https://group12uottawa.github.io/about-us.html">
+        		<img src="images/logo_virco.png" alt="LogoVirco" class="virco">
+        	</a>
+    	</div>
+
+        <script type="text/javascript">
+        	var tooltip = document.querySelectorAll('.tooltip');
+
+			document.addEventListener('mousemove', fn, false);
+
+			function fn(e) {
+			    for (var i=tooltip.length; i--;) {
+			        tooltip[i].style.left = e.pageX + 'px';
+			        tooltip[i].style.top = e.pageY + 'px';
+			    }
+			}
+        </script>
     </body>
 </html>
