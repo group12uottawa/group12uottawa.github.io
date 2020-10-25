@@ -106,8 +106,14 @@ body {
     clear: both;
 }
 
-.column {
+.imagecolumn {
     float: left;
-    width: 50%;
+    width: 25%;
+    padding: 10px;
+}
+
+.textcolumn {
+    float: left;
+    width: 75%;
     padding: 10px;
 }
