@@ -6,10 +6,10 @@ Colours
 ========
 The colours of our site are going to consist of mostly blue. We are planning on avoiding white as much as possible. The colours should feel warm but contemporary. 
 
-- #88ABE5
-- #5C87CA
-- #BACDEC
-- #6F97D8
+- #88abe5
+- #557dbd
+- #bacdec
+- #5c65d3
 
 Iconography
 ===========
