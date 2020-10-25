@@ -8,10 +8,6 @@ body {
     margin:0;
 }
 
-h1 {
-    margin: 0px;
-}
-
 .header{
     background-color: #88abe5;
     text-align: left;
@@ -87,4 +83,19 @@ h1 {
     width:132px;
     height:38px;
     border-radius: 5px;
+}
+
+.footer {
+    background-color: #88abe5;
+}
+
+.virco {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.copyright {
+    margin:0px;
+    text-align: center;
 }
