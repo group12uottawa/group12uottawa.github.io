@@ -4,14 +4,29 @@
 }
 
 body {
-    background: #5C87CA;
+    background: #88abe5;
     margin:0;
 }
 
 .header{
-    background-color: #88abe5;
+    background-color:#557dbd;
     text-align: left;
 }
+
+.body {
+    width: 80%;
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #bacdec;
+    font-size: 15px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 20px;
+}
+
 .profilepic {
     width: 100px;
     height: 100px;
@@ -19,13 +34,13 @@ body {
 .logo {
     height: 41px;
     width: 127;
-    
 }
+
 .header a:link, .header a:visited {
     background-color: transparent;
     border-radius: 4px;
     color: black;
-    font-size:20px;
+    font-size:40px;
     padding: 20px 32px;
     text-align: center;
     text-decoration: none;
@@ -33,7 +48,7 @@ body {
 }
 
 .header a:hover, .header a:active {
-    background-color:#5c87ca;
+    background-color:#88abe5;
 }
 
 .preview {
@@ -58,15 +73,6 @@ body {
     margin-right: auto;
 }
 
-.secondary {
-    color: #bacdec;
-    height: 80px;
-    width: 200px;
-    padding: 20px;
-    border: 5px;
-    background-color: #88abe5;
-}
-
 .tooltipcontainer:hover .tooltip {
     display: block;
 }
@@ -86,7 +92,7 @@ body {
 }
 
 .footer {
-    background-color: #88abe5;
+    background-color: #557dbd;
 }
 
 .virco {
