@@ -8,6 +8,10 @@ body {
     margin:0;
 }
 
+h1 {
+    margin: 0px;
+}
+
 .header{
     background-color: #88abe5;
     text-align: left;
