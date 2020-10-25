@@ -69,12 +69,6 @@ body {
     box-shadow: 5px 10px 8px black;
 }
 
-.learnmore {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 .tooltipcontainer:hover .tooltip {
     display: block;
 }
