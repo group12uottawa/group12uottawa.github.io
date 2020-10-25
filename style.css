@@ -52,18 +52,6 @@ body {
     box-shadow: 5px 10px 8px black;
 }
 
-a.button {
-    color: #bacdec;
-    height: 80px;
-    width: 200px;
-    padding: 20px;
-    border: 5px;
-    background-color: #88abe5;
-    text-decoration: none;
-    font-size: 2em;
-    transition: 0.2s;
-}
-
 .learnmore {
     display: block;
     margin-left: auto;
