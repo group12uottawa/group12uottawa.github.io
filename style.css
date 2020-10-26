@@ -33,8 +33,9 @@ body {
 }
 
 .profilepic {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius: 25px;
 }
 .logo {
     height: 41px;
@@ -71,6 +72,12 @@ body {
     box-shadow: 5px 10px 8px black;
 }
 
+.learnmore {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .tooltipcontainer:hover .tooltip {
     display: block;
 }
@@ -103,20 +110,19 @@ body {
     margin:0px;
     text-align: center;
 }
-
 .row {
     clear: both;
 }
 
 .imagecolumn {
     float: left;
-    width: 25%;
+    width: 30%;
     padding: 10px;
 }
 
 .textcolumn {
     float: left;
-    width: 75%;
+    width: 70%;
     padding: 10px;
 }
 
