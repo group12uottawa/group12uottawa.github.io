@@ -13,7 +13,7 @@ The colours of our site are going to consist of mostly blue. We are planning on 
 
 Iconography
 ===========
-The icons will have a flat design similar to the buttons. The colours of the icons should match the colours in the colour palette. 
+The icons will have a flat, circular design similar to the buttons. The colours of the icons should match the colours in the colour palette. 
 
 Typography
 ==========
