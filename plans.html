@@ -14,42 +14,49 @@
             <a href="https://group12uottawa.github.io/plans.html">Plans</a>
             <a href="https://group12uottawa.github.io/about-us.html">About Us</a>
         </div>
-        <!--Addition of plan option boxes-->
-        <!--plan 1-->
-        <h1>Standard</h1>
-            <h2>Free</h2>
-            <p>This plan gives access to:</p>
-            <ul>
-                <li>Call time is up to 60 minutes</li>
-                <li>A maximum of 50 users in one call</li>
-                <li>Up to 10 seperate rooms can be created at one time</li>
-                <li>No screen sharing</li>
-                <li>Only 3 minigames available</li>
-            </ul>
-        <!--plan 2-->
-        <h1>Premium</h1>
-            <h2>18$/month/license</h2>
-            <h3>175$/year/license</h3>
-            <p>This plan gives access to:</p>
-            <ul>
-                <li>Unlimited call time</li>
-                <li>A maximum of 100 users in one call</li>
-                <li>Up to 20 seperate rooms can be created at one time</li>
-                <li>Screen sharing available for the host</li>
-                <li>6 minigames available</li>
-            </ul>       
-        <!--plan 3-->
-        <h1>Premium+</h1>
-            <h2>25$/month/license</h2>
-            <h3>250$/year/license</h3>
-            <p>This plan gives access to:</p>
-            <ul>
-                <li>Unlimited call time</li>
-                <li>A maximum of 500 users in one call</li>
-                <li>Unlimited seperate rooms can be created at one time</li>
-                <li>Screen sharing available for everyone if host approves</li>
-                <li>10 minigames available</li>
-            </ul>
+        <div class="body">
+            <div class="planscolumn">
+                <h1>Standard</h1>
+                <h2>Free</h2>
+                <p>This plan gives access to:</p>
+                <ul>
+                    <li>Call time is up to 60 minutes</li>
+                    <li>A maximum of 50 users in one call</li>
+                    <li>Up to 10 seperate rooms can be created at one time</li>
+                    <li>No screen sharing</li>
+                    <li>Only 3 minigames available</li>
+                </ul>
+                <div class="button" onclick="popup()">Buy Now</div>
+            </div>
+            <div class="planscolumn">
+                <h1>Premium</h1>
+                <h2>18$/month/license</h2>
+                <h3>175$/year/license</h3>
+                <p>This plan gives access to:</p>
+                <ul>
+                    <li>Unlimited call time</li>
+                    <li>A maximum of 100 users in one call</li>
+                    <li>Up to 20 seperate rooms can be created at one time</li>
+                    <li>Screen sharing available for the host</li>
+                    <li>6 minigames available</li>
+                </ul>
+                <div class="button" onclick="popup()">Buy Now</div>
+            </div>
+            <div class="planscolumn">
+                <h1>Premium+</h1>
+                <h2>25$/month/license</h2>
+                <h3>250$/year/license</h3>
+                <p>This plan gives access to:</p>
+                <ul>
+                    <li>Unlimited call time</li>
+                    <li>A maximum of 500 users in one call</li>
+                    <li>Unlimited seperate rooms can be created at one time</li>
+                    <li>Screen sharing available for everyone if host approves</li>
+                    <li>10 minigames available</li>
+                </ul>
+                <div class="button" onclick="popup()">Buy Now</div>
+            </div>
+        </div>
         
         <div class="footer">
     		<a href="https://group12uottawa.github.io/about-us.html">
@@ -57,5 +64,10 @@
         	</a>
             <p class="copyright">© 2020 Virco Corp</p>
     	</div>
+        <script>
+            function popup() {
+                alert("Launching soon. Come back later!");
+            }
+        </script>
     </body>
 </html>
