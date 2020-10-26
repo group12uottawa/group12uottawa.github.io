@@ -123,3 +123,28 @@ body {
 .img {
     border-radius: 25px;
 }
+
+.planscolumn {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+}
+
+.button {
+    font-size: 20px;
+    display: block;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+    border-radius: 25px;
+    padding: 20px;
+    background-color: #557dbd;
+}
+
+.button:hover {
+    background-color: #88abe5;
+    cursor: pointer;
+}
