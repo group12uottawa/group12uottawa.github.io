@@ -47,7 +47,7 @@ body {
 
 .header a:link, .header a:visited {
     background-color: transparent;
-    border-radius: 20px;
+    border-radius: 0px;
     color: black;
     font-size:40px;
     padding: 20px 32px;
